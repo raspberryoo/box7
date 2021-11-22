@@ -1,0 +1,262 @@
+
+:root {
+    --main-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body {
+    -ms-overflow-style: none;
+    font-family: var(--main-font);
+} 
+::-webkit-scrollbar { 
+    display: none; }
+
+/* what? */
+.title7{
+    position: absolute;
+    width: 234px;
+    height: 89px;
+    left: 90px;
+    top: 397px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 24px;
+    line-height: 20px;
+    /* or 83% */
+
+    text-align: center;
+
+    color: #D8B1B1;
+}
+
+.textbox7{
+    position: absolute;
+    width: 234px;
+    height: 100px;
+    left: 90px;
+    top: 430px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    /* or 83% */
+
+    text-align: center;
+
+    color: #D9BD2A
+}
+
+.title8{
+    position: absolute;
+    width: 240px;
+    height: 94px;
+    left: 87px;
+    top: 590px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 24px;
+    line-height: 20px;
+    /* or 83% */
+
+    text-align: center;
+
+    color: #D8B1B1;
+}
+
+.textbox8{
+    position: absolute;
+    width: 240px;
+    height: 94px;
+    left: 87px;
+    top: 630px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    /* or 83% */
+
+    text-align: center;
+
+    color: #D9BD2A;
+}
+/* about */
+.work7{
+    position: absolute;
+    width: 77px;
+    height: 25px;
+    left: 19px;
+    top: 97px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height, or 139% */
+
+    display: flex;
+    align-items: center;
+
+    transform: rotate(-90deg);
+    color: #D9BD2A;
+
+}
+
+/* artudent */
+.name7{
+    position: absolute;
+    width: 150px;
+    height: 25px;
+    left: 146px;
+    top: 33px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height, or 139% */
+
+
+    color: #D9BD2A;
+}
+
+/* what 과 why 사이 선 */
+
+.line65{
+    position: absolute;
+    width: 586px;
+    height: 0px;
+    left: 0px;
+    top: 515px;
+
+    border: 2px solid #D9BD2A;
+
+}
+
+/* ARTUDENT 글씨 아래 선 */
+.line67{
+    position: absolute;
+    width: 150px;
+    height: 0px;
+    left: 139px;
+    top: 45px;
+
+    border: 2px solid #D9BD2A;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.box7{
+    position: absolute;
+    width: 216.34px;
+    height: 353.68px;
+    left: 115px;
+    top: 48px;
+}
+
+.phone{
+    position: absolute;
+    width: 266px;
+    height: 186.3px;
+    left: 74px;
+    top: 702px;
+}
+
+.phone2{
+    position: absolute;
+    width: 265.76px;
+    height: 184px;
+    left: 74px;
+    top: 939px;
+}
+
+.insta3{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 174px;
+    top: 1165px;
+}
+
+/* @artudent */
+.artudentlink{
+    position: absolute;
+    width: 84px;
+    height: 25px;
+    left: 164px;
+    top: 1244px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height, or 139% */
+
+    text-align: center;
+
+    color: #D09898;
+
+    opacity: 0.7;
+}
+
+.officiallink{
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 171px;
+    top: 1281px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height, or 139% */
+
+    text-align: center;
+
+    color: #D09898;
+
+    opacity: 0.7;
+}
+
+.mobilebox7{
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 192px;
+    top: 1324px;
+
+}
+
+
+.mobilebox8{
+    position: absolute;
+    width: 55px;
+    height: 123px;
+    left: 180px;
+    top: 1389px;
+}
+
+.glyphicon glyphicon-arrow-right{
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 192px;
+    top: 1324px;
+}
+
+.glyphicon glyphicon-home{
+    position: absolute;
+    width: 55px;
+    height: 123px;
+    left: 180px;
+    top: 1389px;
+}
